@@ -1,0 +1,5 @@
+Мобильные операционные системы: Android, iPhone, BlackBerry, Flyme OS. 
+Браузеры: Chrome, Opera Mobile, Safari (только для iPhone), Dolphin Browser, Mozilla Firefox (только для Android).
+Разрешения экрана: 1920*1080, 1280*720, 800*480
+if iPhone then Safari
+if Android then Mozilla Firefox
